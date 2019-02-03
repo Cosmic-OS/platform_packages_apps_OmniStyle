@@ -45,6 +45,6 @@ day_header entries have a higher priority then hour entries -->
     <list_header image="space_21" />
     <list_header image="space_22" />
     <list_header image="space_23" />
-    <list_header image="misc_16" />
-    <list_header image="misc_19" />
+    <list_header image="space_24" />
+    <list_header image="space_25" />
 </daylight_headers>
